@@ -1,2 +1,2 @@
 # EDSimulations
-Here, I will create simulations (modeling) of related-Electrodynamics Conccepts
+Here, I will create simulations (modeling) of related-Electrodynamics Concepts
